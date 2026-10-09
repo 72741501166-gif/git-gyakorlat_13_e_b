@@ -50,6 +50,9 @@ main{
 .card:hover{
     box-shadow: 5px,  0px, red;
 }
+#akciok{
+    background-color: green;
+}
 
 footer{
     margin-top:30px;
